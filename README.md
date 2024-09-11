@@ -19,28 +19,23 @@
 </p>
 
 <p align="center">
-  [Discord] - ATIO is a Script Gathering for Windows/Linux systems written in Python.
+  [Discord] - ATIO2 is a Script Gathering for Windows/Linux systems written in Python.
 </p>
 
 ## Disclaimer
 
-|ATIO was made for Educational purposes|
+|ATIO2 was made for Educational purposes|
 |-------------------------------------------------|
 This project was created only for good purposes and personal use.
-By using ATIO, you agree that you hold responsibility and accountability of any consequences caused by your actions.
+By using ATIO2, you agree that you hold responsibility and accountability of any consequences caused by your actions.
 
 ## Features
-- [ ] - [Selft Bot](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Turn your discord account into a self bot.
-- [ ] - [RAT Tool](https://github.com/moom825/Discord-RAT) - Create a RAT file. Once the victim runs it, you can control his PC through a BOT Discord.
-- [ ] - [Raid Tool](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Allows to raid a discord server with several accounts (requires an account generator).
-- [ ] - [Server Nuker](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Easily nuke a discord server with a BOT Discord.
-- [x] - [VideoCrash Maker](https://github.com/AstraaDev/Discord-VideoCrashMaker) - Convert a video into an identical video that makes Crash discord app when played.
+- [x] - [RAT Tool](https://github.com/mategol/PySilon-malware) - Create a RAT file. Once the victim runs it, you can control his PC through a BOT Discord.
+- [x] - [Raid Tool](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Allows to raid a discord server with several accounts (requires an account generator).
+- [x] - [Server Nuker](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Easily nuke a discord server with a BOT Discord.
 - [x] - [File Grabber](https://github.com/AstraaDev/Discord-Token-Grabber) - Create a TokenGrabber.py file to get a user's token and allows you to convert it to an Exe.
-- [ ] - [IP Grabber](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Allows you to retrieve the IP of any person who is on a call with you.
-- [ ] - [Token Qr Generator](https://github.com/AstraaDev/Discord-Qr-Code-Token) - Generate a "Fake Nitro QR Code". If a user scans it, you get his token.
 - [x] - [Account Nuker](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Quit the servers, Delete friends, Create serveurs, change the settings of a user with his Token.
 - [x] - [Account Disabler](https://github.com/assaultfulgg/account-disabler) - Allows you to disable any discord account with the token of this one.
-- [ ] - [Account Generator](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Create a discord account valid every 1min30 and give you the associated token. 
 - [x] - [Settings Cycler](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Cycle theme color (Black/White), Language and Statue of a user with his Token.
 - [x] - [Token Informations](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Get all the information of a Discord User with his Token.
 - [x] - [AutoLogin](https://github.com/AstraaDev/Discord-Token-AutoLogin) - Enter a user's token and automatically log in to the user's account.
@@ -63,7 +58,7 @@ Launch the setup.bat file. A new file will be created. You will only have to lau
 
 #### 2nd・Installation (Manual installation)
 ```
-$ git clone https://github.com/AstraaDev/Discord-All-Tools-In-One.git
+$ git clone https://github.com/otoz1/Discord-All-Tools-In-One-2.git
 $ python -m pip install -r requirements.txt
 $ python3 atio.py
 ```
