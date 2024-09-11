@@ -31,8 +31,7 @@ By using ATIO2, you agree that you hold responsibility and accountability of any
 
 ## Features
 - [x] - [RAT Tool](https://github.com/mategol/PySilon-malware) - Create a RAT file. Once the victim runs it, you can control his PC through a BOT Discord.
-- [x] - [Raid Tool](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Allows to raid a discord server with several accounts (requires an account generator).
-- [x] - [Server Nuker](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Easily nuke a discord server with a BOT Discord.
+- [x] - [Server Nuker](https://github.com/the-cult-of-integral/discord-raidkit) - Easily nuke a discord server with a BOT Discord.
 - [x] - [File Grabber](https://github.com/AstraaDev/Discord-Token-Grabber) - Create a TokenGrabber.py file to get a user's token and allows you to convert it to an Exe.
 - [x] - [Account Nuker](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Quit the servers, Delete friends, Create serveurs, change the settings of a user with his Token.
 - [x] - [Account Disabler](https://github.com/assaultfulgg/account-disabler) - Allows you to disable any discord account with the token of this one.
