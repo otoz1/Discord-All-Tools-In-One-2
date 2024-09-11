@@ -70,7 +70,7 @@ General Informations:
 - If you find any malfunction, contact me on Discord: None.
 
 ## Example
-![home.png](https://cdn.discordapp.com/attachments/1033450243481677874/1149718136258576466/image.png)
+![home.png](https://cdn.discordapp.com/attachments/1276615595940380733/1283492469433958544/home.png?ex=66e33102&is=66e1df82&hm=d225a1dd941dadadf49483390f4b3c89757802193c5fc1d8ff56c88ea385f776&)
 
 ## Errors/Fixes
 
