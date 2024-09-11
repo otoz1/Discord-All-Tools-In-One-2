@@ -2,8 +2,8 @@
   <img src="https://i.discord.fr/PSS.png">
 </p>
 
-<h1 align="center">[Discord] - ATIO (V1.3.0)</h1>
-<h1 align="center">The project is no longer under active development and will not receive any further updates or bug fixes.</h1>
+<h1 align="center">[Discord] - ATIO2 (V1)</h1>
+<h1 align="center">ALL CREDIT TO AstraaDev.</h1>
 <p align="center">
   <a href="https://github.com/AstraaDev/Discord-All-Tools-In-One/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-important">
@@ -11,15 +11,11 @@
   <a href="https://www.python.org">
     <img src="https://img.shields.io/badge/Python-3.9-informational.svg">
   </a>
-  <a href="https://github.com/AstraaDev/Discord-All-Tools-In-One">
+  <a href="https://github.com/otoz1/Discord-All-Tools-In-One-2">
     <img src="https://img.shields.io/badge/covarage-95%25-green">
   </a>
-  <a href="https://github.com/AstraaDev">
+  <a href="https://github.com/otoz1">
     <img src="https://img.shields.io/github/repo-size/AstraaDev/Discord-All-Tools-In-One.svg?label=Repo%20size&style=flat-square">
-  </a>
-    <p align="center"> <a href="https://twitter.com/astraadev" target="blank">
-    <img src="https://img.shields.io/twitter/follow/astraadev?logo=twitter&style=for-the-badge" alt="astraadev"/></a>
-  </a>
 </p>
 
 <p align="center">
