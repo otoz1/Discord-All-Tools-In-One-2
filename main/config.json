@@ -1,0 +1,23 @@
+{
+    "Application": {
+        "DoStartupVersionCheck": true,
+        "DoNotShowHorusCloseMessage": false
+    },
+    "Horus": {
+        "Token": "",
+        "ApplicationID": "",
+        "Prefix": "",
+        "Stauses": [],
+        "InitialPresence": {
+            "ActivityName": "",
+            "ActivityURL": "",
+            "ActivityType": 0,
+            "StatusType": 0
+        },
+        "AutoInvisibleOnMaliciousAction": true,
+        "RaiderType": 0
+    },
+    "Osiris": {
+        "Token": ""
+    }
+}
